@@ -1,27 +1,38 @@
-Synopsis -
 
-This project is a numeracy game created for children
+#JQuery Spelling Game
 
-Motivation -
+This project is an interactive numeracy game created for key stage 2 children. I was set the challenge in my placement year from university when I worked for an educational software company.
 
-A task given to me on my placement year by my employer
-
-API Reference -
-
-N/A
-
-Libraries -
-
-JQuery
-
-Contributors -
+#Contributors
 
 Sean Milburn
 
-Browser compatibility -
+#Requirements
+
+N/A
+
+#Instructions
+
+-download project files<br>
+-run locally
+
+#Libraries 
+
+JQuery
+
+#External resources
+
+N/A
+
+#Styling
+
+CSS3
+
+#Plugins
+
+N/A
+
+#Browser compatibility
 
 Edge, Firefox, Chrome
 
-License -
-
-N/A
